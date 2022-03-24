@@ -8,11 +8,11 @@
 			- TODO water, fertilize, etc. (set to repeat @ an interval if you want to be $fancy$)
 		- [[home]]
 			- TODO chores!
-	- ### schedule
+	- ### [[schedule]]
 		- TODO [[meet]] @ ^^00:00^^ ~ _topic_ w [[@Person]]
 		- TODO [[go]] @ ^^00:00^^ ... → _place_ w [[@Person]]
 		- TODO [[teach]] @ ^^00:00^^ ~ [[topic]] → #course or [[@Person]]
-	- ### log
+	- ### [[log]]
 		- TODO [[search]]
 		- TODO [[add]]
 		- TODO [[library]]
@@ -22,16 +22,16 @@
 		- TODO [[create]]
 		- TODO [[edit]]
 		- TODO [[submit]]
-	- ### communicate
+	- ### [[communicate]]
 		- TODO [[talk]]
 		- TODO [[contact]]
 		- TODO [[call]]
 		- TODO [[ask]]
 		- TODO [[tell]]
 		- TODO [[submit]]
-	- ### evening
+	- ### [[evening]]
 		- sunset @ ^^00:00^^
-			-[[reflect]] what did you learn today, etc.
-	- ### tomorrow
+			-[[reflect]] what did i [[learn]] today, etc.
+	- ### [[tomorrow]]
 		- [[schedule]]
 			- TODO [[meet]] @ ^^00:00^^ ... w [[@Person]]
