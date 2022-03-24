@@ -1,0 +1,37 @@
+- # day · 🌧 ☀️⛅🌥🌤🌦🌩⛈☁️🌧🌨 5°C
+	- ### [[morning]]!
+		- sunrise @ 00:00
+	- ### [[life]]
+		- [[pet]]
+			- TODO water, food, vet, etc.
+		- [[plants]]
+			- TODO water, fertilize, etc. (set to repeat @ an interval if you want to be $fancy$)
+		- [[home]]
+			- TODO chores!
+	- ### schedule
+		- TODO [[meet]] @ ^^00:00^^ ~ _topic_ w [[@Person]]
+		- TODO [[go]] @ ^^00:00^^ ... → _place_ w [[@Person]]
+		- TODO [[teach]] @ ^^00:00^^ ~ [[topic]] → #course or [[@Person]]
+	- ### log
+		- TODO [[search]]
+		- TODO [[add]]
+		- TODO [[library]]
+		- TODO [[read]] 
+		- TODO [[learn]]
+		- TODO [[analyze]]
+		- TODO [[create]]
+		- TODO [[edit]]
+		- TODO [[submit]]
+	- ### communicate
+		- TODO [[talk]]
+		- TODO [[contact]]
+		- TODO [[call]]
+		- TODO [[ask]]
+		- TODO [[tell]]
+		- TODO [[submit]]
+	- ### evening
+		- sunset @ ^^00:00^^
+			-[[reflect]] what did you learn today, etc.
+	- ### tomorrow
+		- [[schedule]]
+			- TODO [[meet]] @ ^^00:00^^ ... w [[@Person]]
