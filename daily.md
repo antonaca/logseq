@@ -11,7 +11,7 @@
 	- ### [[schedule]]
 		- TODO [[meet]] @ ^^00:00^^ ~ _topic_ w [[@Person]]
 		- TODO [[go]] @ ^^00:00^^ ... → _place_ w [[@Person]]
-		- TODO [[teach]] @ ^^00:00^^ ~ [[topic]] → #course or [[@Person]]
+		- TODO [[teach]] @ ^^00:00^^ ~ _topic_ → #course or [[@Person]]
 	- ### [[log]]
 		- TODO [[search]]
 		- TODO [[add]]
