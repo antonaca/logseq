@@ -36,4 +36,4 @@
 	- ### [[tomorrow]]
 		- [[schedule]]
 			- TODO [[meet]] @ ^^00:00^^ ... w [[@Person]]
-			- TODO [[go]] @ ^^00:00^^ ... w [[@Person]]
+			- TODO [[go]] @ ^^00:00^^ → place w [[@Person]]
