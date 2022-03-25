@@ -1,6 +1,6 @@
 - # day · 🌧 ☀️⛅🌥🌤🌦🌩⛈☁️🌧🌨 5°C
 	- ### [[morning]]!
-		- sunrise @ 00:00
+		- sunrise @ ^^00:00^^
 	- ### [[life]]
 		- [[pet]]
 			- TODO water, food, vet, etc.
