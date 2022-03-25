@@ -34,7 +34,7 @@
 		- TODO [[send]]
 	- ### [[evening]]
 		- sunset @ ^^00:00^^
-		-[[reflect]] TIL, etc.
+		- [[reflect]] TIL, etc.
 	- ### [[tomorrow]]
 		- [[schedule]]
 			- TODO [[meet]] @ ^^00:00^^ ... w [[@Person]]
