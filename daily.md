@@ -29,9 +29,11 @@
 		- TODO [[ask]]
 		- TODO [[tell]]
 		- TODO [[submit]]
+		- TODO [[send]]
 	- ### [[evening]]
 		- sunset @ ^^00:00^^
 			-[[reflect]] what did i [[learn]] today, etc.
 	- ### [[tomorrow]]
 		- [[schedule]]
 			- TODO [[meet]] @ ^^00:00^^ ... w [[@Person]]
+			- TODO [[go]] @ ^^00:00^^ ... w [[@Person]]
