@@ -32,7 +32,7 @@
 		- TODO [[send]]
 	- ### [[evening]]
 		- sunset @ ^^00:00^^
-			-[[reflect]] what did i [[learn]] today, etc.
+		-[[reflect]] TIL, etc.
 	- ### [[tomorrow]]
 		- [[schedule]]
 			- TODO [[meet]] @ ^^00:00^^ ... w [[@Person]]
