@@ -1,5 +1,4 @@
-# logseq
-**- research workflow templates! 🎊**
+# **logseq workflow templates! 🎊**
 - select workflow
 - view "raw" file
 - copy & paste into logseq page
